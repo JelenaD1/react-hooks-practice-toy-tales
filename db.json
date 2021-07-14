@@ -4,19 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
-    },
-    {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "likes": 11
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 10
     },
     {
       "id": 4,
@@ -47,6 +41,23 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "teddy bear",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKTMTvvWDw_VL84yflIwsjJOF16DbN_nHZTnkAgtGopP70QWOOKDHn5xCiwg&usqp=CAc",
+      "id": 9
+    },
+    {
+      "name": "panda",
+      "image": "https://kawaii.kawaii.at/images/product_images/big_images/big-black-white-panda-with-pink-bow-squeaky-plush-toy-Japan-212261-1.JPG",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Lightning mcqueen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFN6MJIH-0bwavkSsr7e39I5M4b4RrDHqZpuEYfwbQD6vGKKABLVZDwZj0wjKgGV9lqPvhkP2J&usqp=CAc",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
